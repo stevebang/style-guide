@@ -1,1 +1,1 @@
-# style-guide
+# Documentation style guide (style-guide)
